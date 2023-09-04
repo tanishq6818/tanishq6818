@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/tanishq6818">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Exploring%20the%20World&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <a href="https://twitter.com/Tanishq6818"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/tanishqagro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
