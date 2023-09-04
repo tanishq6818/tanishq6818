@@ -1,5 +1,5 @@
 <a href="https://github.com/tanishq6818">
-  <h1  align="center" style="color:#880808;">
+  <h1  align="center" style="color:red;">
     Tanishq Agarwal
   </h1>
 </a>
@@ -67,13 +67,11 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="https://www.adobe.com/creativecloud.html"><img alt="Adobe Suite" src="https://example.com/adobe-suite-icon.png"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="https://www.figma.com/"><img alt="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FF7139.svg?logo=firefox-browser&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
@@ -81,6 +79,8 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <!--<a href="https://www.figma.com/"><img alt="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+            <a href="https://www.adobe.com/creativecloud.html"><img alt="Adobe Suite" src="https://example.com/adobe-suite-icon.png"></a>-->
   </p>
 </details>
 
@@ -106,9 +106,3 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tanishq Agarwal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishq6818&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-<!--<details open> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href=""><img src="" alt="@tanishq6818&#39;s Holopin board"></a></p>
-</details>-->
