@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@addictedInsaan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://youtube.com/@addictedInsaan"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/red/youtube-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Tanishq6818"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/Tanishq6818"><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/red/twitter-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/tanishqagro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/red/linkedin-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
