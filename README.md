@@ -1,5 +1,5 @@
 <a href="https://github.com/tanishq6818">
-  <h1  align="center" style="color:"#880808";">
+  <h1  align="center" style="color:#880808";>
     Tanishq Agarwal
   </h1>
 </a>
