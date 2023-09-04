@@ -1,77 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanishq Agarwal</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1F222E;
-            color: #FFFFFF;
-            text-align: center;
-        }
+<a href="https://github.com/tanishq6818">
+  <h1  align="center" style="color:#880808;">
+    Tanishq Agarwal
+  </h1>
+</a>
 
-        a {
-            text-decoration: none;
-            color: #FF0000;
-        }
+<p align="center">
+  <a href="https://github.com/tanishq6818">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Exploring%20the%20World🌍...&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-        h1 {
-            font-size: 36px;
-            color: #880808;
-        }
-
-        h2 {
-            font-size: 24px;
-            color: #FF0000;
-        }
-
-        p {
-            margin: 10px 0;
-        }
-
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-
-        .social-icons a {
-            font-size: 24px;
-        }
-
-        .tools-badge {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-        }
-
-        .tools-badge img {
-            width: 100px;
-            height: 100px;
-        }
-    </style>
-</head>
-<body>
-    <a href="https://github.com/tanishq6818">
-        <h1>Tanishq Agarwal</h1>
-    </a>
-
-    <p>
-        <a href="https://github.com/tanishq6818">
-            <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Exploring%20the%20World🌍...&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=22" />
-        </a>
-    </p>
-
-    <div class="social-icons">
-        <a href="https://youtube.com/@addictedInsaan"><img src="https://www.iconsdb.com/icons/preview/red/youtube-xxl.png" alt="Youtube"></a>
-        <a href="https://twitter.com/Tanishq6818"><img src="https://www.iconsdb.com/icons/preview/red/twitter-xxl.png" alt="Twitter"></a>
-        <a href="https://www.linkedin.com/in/tanishqagro/"><img src="https://www.iconsdb.com/icons/preview/red/linkedin-xxl.png" alt="LinkedIn"></a>
-    </div>
-
-    <br/>
+<p align="center">
+  <a href="https://youtube.com/@addictedInsaan"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/red/youtube-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Tanishq6818"><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/red/twitter-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/tanishqagro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/red/linkedin-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <br/>
 
