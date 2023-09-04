@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/tanishq6818">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Exploring%20the%20World&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Exploring%20the%20World&font=Fira%20Code&center=true&width=440&height=45&color=#FF0000&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
   <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FF7139.svg?logo=firefox-browser&logoColor=white"></a>
