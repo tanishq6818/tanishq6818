@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Tanishq6818"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tanishqagro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png"/></a>
+  <a href="https://www.linkedin.com/in/tanishqagro/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/red/linkedin-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
