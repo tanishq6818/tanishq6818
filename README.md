@@ -99,6 +99,12 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush Munot's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tanishq6818&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush Munot's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tanishq6818&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<details open> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://www.holopin.io/@tanishq6818"><img src="https://holopin.me/tanishq6818" alt="@tanishq6818&#39;s Holopin board"></a></p>
+</details>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
